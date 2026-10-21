@@ -44,6 +44,34 @@
 
 ---
 
+## 🎁 免费开源素材包：39 套 / 162 页项目汇报 PPT
+
+[`packs/project-report-ppt/`](./packs/project-report-ppt/) 是一整套**可以直接改**的项目汇报 /
+年终总结 / 路线图 PPT：**39 套模板、162 页**，每页同时给出**原图**与**完全可编辑的 PPTX**。
+文字是原生文本框，色块、箭头、图标是原生形状——打开就能改字、改色、挪位置，不是截图。
+
+<p align="center"><img src="packs/project-report-ppt/samples/s01_001.jpg" width="300" alt="程序员技能树成长时间轴">
+<img src="packs/project-report-ppt/samples/s02_004.jpg" width="300" alt="年终总结数据可视化PPT模板">
+<img src="packs/project-report-ppt/samples/s03_006.jpg" width="300" alt="年终总结数据可视化PPT模板">
+<img src="packs/project-report-ppt/samples/s04_049.jpg" width="300" alt="202X年度工作总结PPT工作汇报">
+<img src="packs/project-report-ppt/samples/s05_050.jpg" width="300" alt="智能制造年中总结汇报PPT模板">
+<img src="packs/project-report-ppt/samples/s06_070.jpg" width="300" alt="项目管理汇报PPT模板">
+<img src="packs/project-report-ppt/samples/s07_096.jpg" width="300" alt="产品迭代路线图-年度产品规划与版本节奏管理图">
+<img src="packs/project-report-ppt/samples/s08_116.jpg" width="300" alt="年度工作规划全景蓝图模板">
+<img src="packs/project-report-ppt/samples/s09_160.jpg" width="300" alt="项目进度管理可视化模板"></p>
+
+| | |
+|---|---|
+| **规模** | 162 页 / 39 套模板，约 52 MB |
+| **题材** | 项目汇报、年终总结、年度规划、路线图、状态报告 |
+| **每页文件** | `原图.jpg` + `成品.pptx`（套装按 `第NN页_原图.jpg` / `第NN页_成品.pptx` 成对） |
+| **许可** | 设计稿版权归 EdrawMax 及原作者；成品可自由修改，请勿原样转售（[说明](./packs/project-report-ppt/LICENSE.md)） |
+
+**[👉 打开素材包目录，直接下载 PPTX](./packs/project-report-ppt/)** · 全部成品同样由
+[image2ppt.asia](https://image2ppt.asia) 自动生成——上传自己的图，20–40 分钟拿回同款可编辑 PPTX。
+
+---
+
 ## 🧪 典型科研图 Demo
 
 下面三张都是真实的科研配图，成品由服务端生成，**无需登录即可下载检查可编辑性**：
