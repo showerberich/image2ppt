@@ -44,31 +44,26 @@
 
 ---
 
-## 🎁 免费开源素材包：39 套 / 162 页项目汇报 PPT
+## 🎁 素材示例：网络图片 → 可编辑 PPTX
 
-[`packs/project-report-ppt/`](./packs/project-report-ppt/) 是一整套**可以直接改**的项目汇报 /
-年终总结 / 路线图 PPT：**39 套模板、162 页**，每页同时给出**原图**与**完全可编辑的 PPTX**。
-文字是原生文本框，色块、箭头、图标是原生形状——打开就能改字、改色、挪位置，不是截图。
+[`examples/`](./examples/) 里放了一组**转换示例**：设计稿图片来自网络公开模板，
+交给 image2ppt 自动转换成**完全可编辑**的 PPTX。每页三件套：
+`原图.jpg`（转换输入）+ `成品.pptx`（原生文本框与形状）+ `成品预览.jpg`（渲染图）。
 
-<p align="center"><img src="packs/project-report-ppt/samples/s01_001.jpg" width="300" alt="程序员技能树成长时间轴">
-<img src="packs/project-report-ppt/samples/s02_004.jpg" width="300" alt="年终总结数据可视化PPT模板">
-<img src="packs/project-report-ppt/samples/s03_006.jpg" width="300" alt="年终总结数据可视化PPT模板">
-<img src="packs/project-report-ppt/samples/s04_049.jpg" width="300" alt="202X年度工作总结PPT工作汇报">
-<img src="packs/project-report-ppt/samples/s05_050.jpg" width="300" alt="智能制造年中总结汇报PPT模板">
-<img src="packs/project-report-ppt/samples/s06_070.jpg" width="300" alt="项目管理汇报PPT模板">
-<img src="packs/project-report-ppt/samples/s07_096.jpg" width="300" alt="产品迭代路线图-年度产品规划与版本节奏管理图">
-<img src="packs/project-report-ppt/samples/s08_116.jpg" width="300" alt="年度工作规划全景蓝图模板">
-<img src="packs/project-report-ppt/samples/s09_160.jpg" width="300" alt="项目进度管理可视化模板"></p>
+<p align="center"><img src="examples/project-report/samples/s01_001.jpg" width="300" alt="程序员技能树成长时间轴">
+<img src="examples/project-report/samples/s02_004.jpg" width="300" alt="年终总结数据可视化 PPT 模板">
+<img src="examples/research/samples/s01.jpg" width="300" alt="新拟态风研究框架结构生物医学">
+<img src="examples/research/samples/s02.jpg" width="300" alt="漏斗结构多模态轻量化模型人工智能"></p>
 
 | | |
 |---|---|
-| **规模** | 162 页 / 39 套模板，约 52 MB |
-| **题材** | 项目汇报、年终总结、年度规划、路线图、状态报告 |
-| **每页文件** | `原图.jpg` + `成品.pptx`（套装按 `第NN页_原图.jpg` / `第NN页_成品.pptx` 成对） |
-| **许可** | 设计稿版权归 EdrawMax 及原作者；成品可自由修改，请勿原样转售（[说明](./packs/project-report-ppt/LICENSE.md)） |
+| **示例** | 15 个目录 / 25 页：项目汇报 8 个、科研学术 7 个 |
+| **每页文件** | `原图.jpg` + `成品.pptx` + `成品预览.jpg` |
+| **完整素材** | [image2ppt.asia 素材页](https://image2ppt.asia/#mat)：222 页，按分类浏览、单页下载 |
+| **许可** | 原图版权归原作者；成品可自由修改，请勿原样转售（[说明](./examples/LICENSE.md)） |
 
-**[👉 打开素材包目录，直接下载 PPTX](./packs/project-report-ppt/)** · 全部成品同样由
-[image2ppt.asia](https://image2ppt.asia) 自动生成——上传自己的图，20–40 分钟拿回同款可编辑 PPTX。
+**[👉 打开示例目录](./examples/)** · 这里只放少量示例，**不提供整包 / 压缩包下载**；
+想看全部素材请到网站素材页逐页挑选。
 
 ---
 
